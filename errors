@@ -1,0 +1,8 @@
+trm.c: In function `prevedNaAbsolutniCestu':
+trm.c:37: warning: passing arg 1 of `getcwd' from incompatible pointer type
+trm.c:38: warning: passing arg 1 of `strcat' from incompatible pointer type
+trm.c: In function `provedExecute':
+trm.c:115: warning: passing arg 1 of `mkstemp' from incompatible pointer type
+trm.c:151: warning: passing arg 1 of `myrm_force' from incompatible pointer type
+trm.c: In function `pridejDoRmListu':
+trm.c:191: warning: passing arg 1 of `prevedNaAbsolutniCestu' from incompatible pointer type
